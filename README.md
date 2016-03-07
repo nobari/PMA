@@ -23,12 +23,8 @@ Proc. of the 17th ACM SIGPLAN symposium on Principles and Practice of Parallel P
                February 25-29, 2012},
   pages     = {205--214},
   year      = {2012},
-  crossref  = {DBLP:conf/ppopp/2012},
   url       = {http://doi.acm.org/10.1145/2145816.2145842},
-  doi       = {10.1145/2145816.2145842},
-  timestamp = {Tue, 22 May 2012 15:24:56 +0200},
-  biburl    = {http://dblp.uni-trier.de/rec/bib/conf/ppopp/NobariCKB12},
-  bibsource = {dblp computer science bibliography, http://dblp.org}
+  doi       = {10.1145/2145816.2145842}
 }
 
 
