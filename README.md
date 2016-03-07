@@ -36,3 +36,6 @@ Proc. of the 17th ACM SIGPLAN symposium on Principles and Practice of Parallel P
 [Full paper](http://dl.acm.org/citation.cfm?id=2145842)
 
 [Wikipedia](http://en.wikipedia.org/wiki/Minimum_spanning_tree)
+
+## Email
+s @ s q n c o . c o m 
