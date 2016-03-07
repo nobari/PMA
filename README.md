@@ -7,8 +7,8 @@ The proliferation of data in graph form calls for the development of scalable gr
 
 ## Please cite the paper:
 [Sadegh Nobari](http://bit.ly/NOB-GS), Thanh-Tung Cao, Panagiotis Karras, and Stéphane Bressan,
-["Scalable parallel minimum spanning forest computation"](http://dl.acm.org/citation.cfm?id=2145842),
-Proc. of the 17th ACM SIGPLAN symposium on Principles and Practice of Parallel Programming (PPoPP'12), New Orleans, LA, USA
+["Scalable parallel minimum spanning forest computation"](http://bit.ly/Nobari-PMA),
+Proceedings of the 17th ACM SIGPLAN symposium on Principles and Practice of Parallel Programming (PPoPP'12), New Orleans, LA, USA
 
 ### BibTeX record
 
@@ -29,7 +29,7 @@ Proc. of the 17th ACM SIGPLAN symposium on Principles and Practice of Parallel P
 
 
 ## Furthur reading
-[Full paper](http://dl.acm.org/citation.cfm?id=2145842)
+[Full paper](http://bit.ly/Nobari-PMA)
 
 [Wikipedia](http://en.wikipedia.org/wiki/Minimum_spanning_tree)
 
